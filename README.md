@@ -103,10 +103,15 @@ I really like using ***Markdown***
 ## Ordered and unordered list
 
 -Sports
+
   1.**Football**
+  
   1.**Basketball**
+  
 -Fruits
+
   1.*Apple*
+  
   1.*Bannana*
 
 ## Images
