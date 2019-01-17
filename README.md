@@ -88,6 +88,32 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## Changes
+# Getting started with Markdown(Changes)
 
-Hello 
+Hello ,Welcome!!.
+
+## Paragraph
+
+I really like using ***Markdown***
+
+## Link
+
+[My github] (https://github.com/anveshrokanlawar)
+
+## Ordered and unordered list
+
+-Sports
+  1.**Football**
+  1.**Basketball**
+-Fruits
+  1.*Apple*
+  1.*Bannana*
+
+## Images
+
+![Hosted image](https://thenypost.files.wordpress.com/2018/10/shutterstock_664621408.jpg?quality=90&strip=all&w=618&h=410&crop=1 "Football")
+
+## About
+
+**Anvesh Rokanlawar**
+
