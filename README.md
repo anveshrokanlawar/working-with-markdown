@@ -102,17 +102,17 @@ I really like using ***Markdown***
 
 ## Ordered and unordered list
 
--Sports
+- Sports
 
-  1.**Football**
+  1. **Football**
   
-  1.**Basketball**
+  1. **Basketball**
   
--Fruits
+- Fruits
 
-  1.*Apple*
+  1. *Apple*
   
-  1.*Bannana*
+  1. *Bannana*
 
 ## Images
 
